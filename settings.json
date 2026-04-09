@@ -6,9 +6,11 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hambunzgg.aternos.me",
-    "port": 18249,
-    "version": "",
+    "ip": "playhambunzsmp.aternos.me",
+    "port": 20310
+
+    ,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
