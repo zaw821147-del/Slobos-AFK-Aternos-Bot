@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "HamBUNzYT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "playhambunzsmp.aternos.me",
-    "port": 20310
+    "ip": " survival-0AF3.aternos.me",
+    "port": 43565
 
     ,
     "version": "1.21.11",
