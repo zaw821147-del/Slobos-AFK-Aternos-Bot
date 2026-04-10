@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "HamBUNzYT",
-    "password": "",
-    "type": "online"
+    "password": "chalol78",
+    "type": "offline"
   },
   "server": {
-    "ip": "survival-0AF3.aternos.me:43565",
-    "port": 43565
+    "ip": "playfreshgg.aternos.me",
+    "port": 33818
 
     ,
     "version": "1.21.11",
