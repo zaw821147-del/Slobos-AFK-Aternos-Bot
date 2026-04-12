@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobo",
-    "password": "chalol78",
+    "username": "Slobo AFK Bot",
+    "password": "",
     "type": "offline"
   },
   "server": {
@@ -10,7 +10,7 @@
     "port": 33818
 
     ,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -33,9 +33,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Fresh Survival",
+        "Subscribe to HamBUNzYT",
+        "Build Then Grief"
       ]
     },
     "chat-log": true,
